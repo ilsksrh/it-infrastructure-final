@@ -1,0 +1,228 @@
+2024-12-01 10:05:44 ERROR DB connection failed
+2024-12-01 10:48:17 ERROR Timeout on service X
+2024-12-02 10:05:44 ERROR DB connection failed
+2024-12-02 10:48:17 ERROR Timeout on service X
+2024-12-03 10:05:44 ERROR DB connection failed
+2024-12-03 10:48:17 ERROR Timeout on service X
+2024-12-04 10:05:44 ERROR DB connection failed
+2024-12-04 10:48:17 ERROR Timeout on service X
+2024-12-02 10:01:07 ERROR Synthetic error 1 in app1
+2024-12-03 10:02:14 ERROR Synthetic error 2 in app1
+2024-12-04 10:03:21 ERROR Synthetic error 3 in app1
+2024-12-01 10:04:28 ERROR Synthetic error 4 in app1
+2024-12-02 10:05:35 ERROR Synthetic error 5 in app1
+2024-12-03 10:06:42 ERROR Synthetic error 6 in app1
+2024-12-04 10:07:49 ERROR Synthetic error 7 in app1
+2024-12-01 10:08:56 ERROR Synthetic error 8 in app1
+2024-12-02 10:09:03 ERROR Synthetic error 9 in app1
+2024-12-03 10:10:10 ERROR Synthetic error 10 in app1
+2024-12-04 10:11:17 ERROR Synthetic error 11 in app1
+2024-12-01 10:12:24 ERROR Synthetic error 12 in app1
+2024-12-02 10:13:31 ERROR Synthetic error 13 in app1
+2024-12-03 10:14:38 ERROR Synthetic error 14 in app1
+2024-12-04 10:15:45 ERROR Synthetic error 15 in app1
+2024-12-01 10:16:52 ERROR Synthetic error 16 in app1
+2024-12-02 10:17:59 ERROR Synthetic error 17 in app1
+2024-12-03 10:18:06 ERROR Synthetic error 18 in app1
+2024-12-04 10:19:13 ERROR Synthetic error 19 in app1
+2024-12-01 10:20:20 ERROR Synthetic error 20 in app1
+2024-12-02 10:21:27 ERROR Synthetic error 21 in app1
+2024-12-03 10:22:34 ERROR Synthetic error 22 in app1
+2024-12-04 10:23:41 ERROR Synthetic error 23 in app1
+2024-12-01 10:24:48 ERROR Synthetic error 24 in app1
+2024-12-02 10:25:55 ERROR Synthetic error 25 in app1
+2024-12-03 10:26:02 ERROR Synthetic error 26 in app1
+2024-12-04 10:27:09 ERROR Synthetic error 27 in app1
+2024-12-01 10:28:16 ERROR Synthetic error 28 in app1
+2024-12-02 10:29:23 ERROR Synthetic error 29 in app1
+2024-12-03 10:30:30 ERROR Synthetic error 30 in app1
+2024-12-01 10:05:44 ERROR DB connection failed
+2024-12-01 10:48:17 ERROR Timeout on service X
+2024-12-02 10:05:44 ERROR DB connection failed
+2024-12-02 10:48:17 ERROR Timeout on service X
+2024-12-03 10:05:44 ERROR DB connection failed
+2024-12-03 10:48:17 ERROR Timeout on service X
+2024-12-04 10:05:44 ERROR DB connection failed
+2024-12-04 10:48:17 ERROR Timeout on service X
+2024-12-02 10:01:07 ERROR Synthetic error 1 in app2
+2024-12-03 10:02:14 ERROR Synthetic error 2 in app2
+2024-12-04 10:03:21 ERROR Synthetic error 3 in app2
+2024-12-01 10:04:28 ERROR Synthetic error 4 in app2
+2024-12-02 10:05:35 ERROR Synthetic error 5 in app2
+2024-12-03 10:06:42 ERROR Synthetic error 6 in app2
+2024-12-04 10:07:49 ERROR Synthetic error 7 in app2
+2024-12-01 10:08:56 ERROR Synthetic error 8 in app2
+2024-12-02 10:09:03 ERROR Synthetic error 9 in app2
+2024-12-03 10:10:10 ERROR Synthetic error 10 in app2
+2024-12-04 10:11:17 ERROR Synthetic error 11 in app2
+2024-12-01 10:12:24 ERROR Synthetic error 12 in app2
+2024-12-02 10:13:31 ERROR Synthetic error 13 in app2
+2024-12-03 10:14:38 ERROR Synthetic error 14 in app2
+2024-12-04 10:15:45 ERROR Synthetic error 15 in app2
+2024-12-01 10:16:52 ERROR Synthetic error 16 in app2
+2024-12-02 10:17:59 ERROR Synthetic error 17 in app2
+2024-12-03 10:18:06 ERROR Synthetic error 18 in app2
+2024-12-04 10:19:13 ERROR Synthetic error 19 in app2
+2024-12-01 10:20:20 ERROR Synthetic error 20 in app2
+2024-12-02 10:21:27 ERROR Synthetic error 21 in app2
+2024-12-03 10:22:34 ERROR Synthetic error 22 in app2
+2024-12-04 10:23:41 ERROR Synthetic error 23 in app2
+2024-12-01 10:24:48 ERROR Synthetic error 24 in app2
+2024-12-02 10:25:55 ERROR Synthetic error 25 in app2
+2024-12-03 10:26:02 ERROR Synthetic error 26 in app2
+2024-12-04 10:27:09 ERROR Synthetic error 27 in app2
+2024-12-01 10:28:16 ERROR Synthetic error 28 in app2
+2024-12-02 10:29:23 ERROR Synthetic error 29 in app2
+2024-12-03 10:30:30 ERROR Synthetic error 30 in app2
+2024-12-01 10:05:44 ERROR DB connection failed
+2024-12-01 10:48:17 ERROR Timeout on service X
+2024-12-02 10:05:44 ERROR DB connection failed
+2024-12-02 10:48:17 ERROR Timeout on service X
+2024-12-03 10:05:44 ERROR DB connection failed
+2024-12-03 10:48:17 ERROR Timeout on service X
+2024-12-04 10:05:44 ERROR DB connection failed
+2024-12-04 10:48:17 ERROR Timeout on service X
+2024-12-02 10:01:07 ERROR Synthetic error 1 in app3
+2024-12-03 10:02:14 ERROR Synthetic error 2 in app3
+2024-12-04 10:03:21 ERROR Synthetic error 3 in app3
+2024-12-01 10:04:28 ERROR Synthetic error 4 in app3
+2024-12-02 10:05:35 ERROR Synthetic error 5 in app3
+2024-12-03 10:06:42 ERROR Synthetic error 6 in app3
+2024-12-04 10:07:49 ERROR Synthetic error 7 in app3
+2024-12-01 10:08:56 ERROR Synthetic error 8 in app3
+2024-12-02 10:09:03 ERROR Synthetic error 9 in app3
+2024-12-03 10:10:10 ERROR Synthetic error 10 in app3
+2024-12-04 10:11:17 ERROR Synthetic error 11 in app3
+2024-12-01 10:12:24 ERROR Synthetic error 12 in app3
+2024-12-02 10:13:31 ERROR Synthetic error 13 in app3
+2024-12-03 10:14:38 ERROR Synthetic error 14 in app3
+2024-12-04 10:15:45 ERROR Synthetic error 15 in app3
+2024-12-01 10:16:52 ERROR Synthetic error 16 in app3
+2024-12-02 10:17:59 ERROR Synthetic error 17 in app3
+2024-12-03 10:18:06 ERROR Synthetic error 18 in app3
+2024-12-04 10:19:13 ERROR Synthetic error 19 in app3
+2024-12-01 10:20:20 ERROR Synthetic error 20 in app3
+2024-12-02 10:21:27 ERROR Synthetic error 21 in app3
+2024-12-03 10:22:34 ERROR Synthetic error 22 in app3
+2024-12-04 10:23:41 ERROR Synthetic error 23 in app3
+2024-12-01 10:24:48 ERROR Synthetic error 24 in app3
+2024-12-02 10:25:55 ERROR Synthetic error 25 in app3
+2024-12-03 10:26:02 ERROR Synthetic error 26 in app3
+2024-12-04 10:27:09 ERROR Synthetic error 27 in app3
+2024-12-01 10:28:16 ERROR Synthetic error 28 in app3
+2024-12-02 10:29:23 ERROR Synthetic error 29 in app3
+2024-12-03 10:30:30 ERROR Synthetic error 30 in app3
+app1.log:2024-12-01 10:05:44 ERROR DB connection failed
+app1.log:2024-12-01 10:48:17 ERROR Timeout on service X
+app1.log:2024-12-02 10:05:44 ERROR DB connection failed
+app1.log:2024-12-02 10:48:17 ERROR Timeout on service X
+app1.log:2024-12-03 10:05:44 ERROR DB connection failed
+app1.log:2024-12-03 10:48:17 ERROR Timeout on service X
+app1.log:2024-12-04 10:05:44 ERROR DB connection failed
+app1.log:2024-12-04 10:48:17 ERROR Timeout on service X
+app1.log:2024-12-02 10:01:07 ERROR Synthetic error 1 in app1
+app1.log:2024-12-03 10:02:14 ERROR Synthetic error 2 in app1
+app1.log:2024-12-04 10:03:21 ERROR Synthetic error 3 in app1
+app1.log:2024-12-01 10:04:28 ERROR Synthetic error 4 in app1
+app1.log:2024-12-02 10:05:35 ERROR Synthetic error 5 in app1
+app1.log:2024-12-03 10:06:42 ERROR Synthetic error 6 in app1
+app1.log:2024-12-04 10:07:49 ERROR Synthetic error 7 in app1
+app1.log:2024-12-01 10:08:56 ERROR Synthetic error 8 in app1
+app1.log:2024-12-02 10:09:03 ERROR Synthetic error 9 in app1
+app1.log:2024-12-03 10:10:10 ERROR Synthetic error 10 in app1
+app1.log:2024-12-04 10:11:17 ERROR Synthetic error 11 in app1
+app1.log:2024-12-01 10:12:24 ERROR Synthetic error 12 in app1
+app1.log:2024-12-02 10:13:31 ERROR Synthetic error 13 in app1
+app1.log:2024-12-03 10:14:38 ERROR Synthetic error 14 in app1
+app1.log:2024-12-04 10:15:45 ERROR Synthetic error 15 in app1
+app1.log:2024-12-01 10:16:52 ERROR Synthetic error 16 in app1
+app1.log:2024-12-02 10:17:59 ERROR Synthetic error 17 in app1
+app1.log:2024-12-03 10:18:06 ERROR Synthetic error 18 in app1
+app1.log:2024-12-04 10:19:13 ERROR Synthetic error 19 in app1
+app1.log:2024-12-01 10:20:20 ERROR Synthetic error 20 in app1
+app1.log:2024-12-02 10:21:27 ERROR Synthetic error 21 in app1
+app1.log:2024-12-03 10:22:34 ERROR Synthetic error 22 in app1
+app1.log:2024-12-04 10:23:41 ERROR Synthetic error 23 in app1
+app1.log:2024-12-01 10:24:48 ERROR Synthetic error 24 in app1
+app1.log:2024-12-02 10:25:55 ERROR Synthetic error 25 in app1
+app1.log:2024-12-03 10:26:02 ERROR Synthetic error 26 in app1
+app1.log:2024-12-04 10:27:09 ERROR Synthetic error 27 in app1
+app1.log:2024-12-01 10:28:16 ERROR Synthetic error 28 in app1
+app1.log:2024-12-02 10:29:23 ERROR Synthetic error 29 in app1
+app1.log:2024-12-03 10:30:30 ERROR Synthetic error 30 in app1
+app2.log:2024-12-01 10:05:44 ERROR DB connection failed
+app2.log:2024-12-01 10:48:17 ERROR Timeout on service X
+app2.log:2024-12-02 10:05:44 ERROR DB connection failed
+app2.log:2024-12-02 10:48:17 ERROR Timeout on service X
+app2.log:2024-12-03 10:05:44 ERROR DB connection failed
+app2.log:2024-12-03 10:48:17 ERROR Timeout on service X
+app2.log:2024-12-04 10:05:44 ERROR DB connection failed
+app2.log:2024-12-04 10:48:17 ERROR Timeout on service X
+app2.log:2024-12-02 10:01:07 ERROR Synthetic error 1 in app2
+app2.log:2024-12-03 10:02:14 ERROR Synthetic error 2 in app2
+app2.log:2024-12-04 10:03:21 ERROR Synthetic error 3 in app2
+app2.log:2024-12-01 10:04:28 ERROR Synthetic error 4 in app2
+app2.log:2024-12-02 10:05:35 ERROR Synthetic error 5 in app2
+app2.log:2024-12-03 10:06:42 ERROR Synthetic error 6 in app2
+app2.log:2024-12-04 10:07:49 ERROR Synthetic error 7 in app2
+app2.log:2024-12-01 10:08:56 ERROR Synthetic error 8 in app2
+app2.log:2024-12-02 10:09:03 ERROR Synthetic error 9 in app2
+app2.log:2024-12-03 10:10:10 ERROR Synthetic error 10 in app2
+app2.log:2024-12-04 10:11:17 ERROR Synthetic error 11 in app2
+app2.log:2024-12-01 10:12:24 ERROR Synthetic error 12 in app2
+app2.log:2024-12-02 10:13:31 ERROR Synthetic error 13 in app2
+app2.log:2024-12-03 10:14:38 ERROR Synthetic error 14 in app2
+app2.log:2024-12-04 10:15:45 ERROR Synthetic error 15 in app2
+app2.log:2024-12-01 10:16:52 ERROR Synthetic error 16 in app2
+app2.log:2024-12-02 10:17:59 ERROR Synthetic error 17 in app2
+app2.log:2024-12-03 10:18:06 ERROR Synthetic error 18 in app2
+app2.log:2024-12-04 10:19:13 ERROR Synthetic error 19 in app2
+app2.log:2024-12-01 10:20:20 ERROR Synthetic error 20 in app2
+app2.log:2024-12-02 10:21:27 ERROR Synthetic error 21 in app2
+app2.log:2024-12-03 10:22:34 ERROR Synthetic error 22 in app2
+app2.log:2024-12-04 10:23:41 ERROR Synthetic error 23 in app2
+app2.log:2024-12-01 10:24:48 ERROR Synthetic error 24 in app2
+app2.log:2024-12-02 10:25:55 ERROR Synthetic error 25 in app2
+app2.log:2024-12-03 10:26:02 ERROR Synthetic error 26 in app2
+app2.log:2024-12-04 10:27:09 ERROR Synthetic error 27 in app2
+app2.log:2024-12-01 10:28:16 ERROR Synthetic error 28 in app2
+app2.log:2024-12-02 10:29:23 ERROR Synthetic error 29 in app2
+app2.log:2024-12-03 10:30:30 ERROR Synthetic error 30 in app2
+app3.log:2024-12-01 10:05:44 ERROR DB connection failed
+app3.log:2024-12-01 10:48:17 ERROR Timeout on service X
+app3.log:2024-12-02 10:05:44 ERROR DB connection failed
+app3.log:2024-12-02 10:48:17 ERROR Timeout on service X
+app3.log:2024-12-03 10:05:44 ERROR DB connection failed
+app3.log:2024-12-03 10:48:17 ERROR Timeout on service X
+app3.log:2024-12-04 10:05:44 ERROR DB connection failed
+app3.log:2024-12-04 10:48:17 ERROR Timeout on service X
+app3.log:2024-12-02 10:01:07 ERROR Synthetic error 1 in app3
+app3.log:2024-12-03 10:02:14 ERROR Synthetic error 2 in app3
+app3.log:2024-12-04 10:03:21 ERROR Synthetic error 3 in app3
+app3.log:2024-12-01 10:04:28 ERROR Synthetic error 4 in app3
+app3.log:2024-12-02 10:05:35 ERROR Synthetic error 5 in app3
+app3.log:2024-12-03 10:06:42 ERROR Synthetic error 6 in app3
+app3.log:2024-12-04 10:07:49 ERROR Synthetic error 7 in app3
+app3.log:2024-12-01 10:08:56 ERROR Synthetic error 8 in app3
+app3.log:2024-12-02 10:09:03 ERROR Synthetic error 9 in app3
+app3.log:2024-12-03 10:10:10 ERROR Synthetic error 10 in app3
+app3.log:2024-12-04 10:11:17 ERROR Synthetic error 11 in app3
+app3.log:2024-12-01 10:12:24 ERROR Synthetic error 12 in app3
+app3.log:2024-12-02 10:13:31 ERROR Synthetic error 13 in app3
+app3.log:2024-12-03 10:14:38 ERROR Synthetic error 14 in app3
+app3.log:2024-12-04 10:15:45 ERROR Synthetic error 15 in app3
+app3.log:2024-12-01 10:16:52 ERROR Synthetic error 16 in app3
+app3.log:2024-12-02 10:17:59 ERROR Synthetic error 17 in app3
+app3.log:2024-12-03 10:18:06 ERROR Synthetic error 18 in app3
+app3.log:2024-12-04 10:19:13 ERROR Synthetic error 19 in app3
+app3.log:2024-12-01 10:20:20 ERROR Synthetic error 20 in app3
+app3.log:2024-12-02 10:21:27 ERROR Synthetic error 21 in app3
+app3.log:2024-12-03 10:22:34 ERROR Synthetic error 22 in app3
+app3.log:2024-12-04 10:23:41 ERROR Synthetic error 23 in app3
+app3.log:2024-12-01 10:24:48 ERROR Synthetic error 24 in app3
+app3.log:2024-12-02 10:25:55 ERROR Synthetic error 25 in app3
+app3.log:2024-12-03 10:26:02 ERROR Synthetic error 26 in app3
+app3.log:2024-12-04 10:27:09 ERROR Synthetic error 27 in app3
+app3.log:2024-12-01 10:28:16 ERROR Synthetic error 28 in app3
+app3.log:2024-12-02 10:29:23 ERROR Synthetic error 29 in app3
+app3.log:2024-12-03 10:30:30 ERROR Synthetic error 30 in app3
