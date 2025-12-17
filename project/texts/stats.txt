@@ -1,0 +1,6 @@
+  3   6  21 text1.txt
+  5  10  35 text2.txt
+  4   8  28 text3.txt
+  7  14  49 text4.txt
+  2   4  14 text5.txt
+ 21  42 147 total
